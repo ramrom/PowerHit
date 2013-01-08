@@ -7,7 +7,7 @@
   $pass = "enovagameuser";
 
   $database = "enovagames";
-  $tableName = "quickkick";
+  $tableName = "powerhit";
 
   if(isset($_POST["firstname"])) {
 
