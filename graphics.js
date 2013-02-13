@@ -15,17 +15,16 @@ var goalieJumpSoftRight = new Image();
 var goalieJumpSoftLeft = new Image();
 
 //preload the images
-homeScreen.src = 'images/HomeScreen.png';  
-gameScreen.src = 'images/GameScreen.png';  
-endScreen.src = 'images/EndScreen.png';  
-highScoreScreen.src = 'images/HighScoreScreen_02.png';  
-goalieReadyPosition.src = 'images/Goalie_Sitting.png';  
-goalieJumpUp.src = 'images/Goalie_JumpingUp.png';  
-goalieJumpHardRight.src = 'images/Goalie_Jumping_HardRight.png';  
-goalieJumpHardLeft.src = 'images/Goalie_Jumping_HardLeft.png';  
-goalieJumpSoftLeft.src = 'images/Goalie_JumpingLeft.png';  
-goalieJumpSoftRight.src = 'images/Goalie_JumpingRight.png';  
-ball.src = 'images/Ball_01.png';  
+homeScreen.src = 'images/HomeScreen.jpg';  
+gameScreen.src = 'images/GameScreen.jpg';  
+endScreen.src = 'images/EndScreen.jpg';  
+highScoreScreen.src = 'images/HighScoreScreen.jpg';  
+goalieReadyPosition.src = 'images/GoalieReady.jpg';  
+goalieJumpHardRight.src = 'images/GoalieHardRight.jpg';  
+goalieJumpHardLeft.src = 'images/GoalieHardLeft.jpg';  
+goalieJumpSoftLeft.src = 'images/GoalieSoftLeft.jpg';  
+goalieJumpSoftRight.src = 'images/GoalieSoftRight.jpg';  
+ball.src = 'images/Ball.jpg';  
 
 //preload the sounds
 //if (navigator.appVersion.indexOf("firefox") != -1) {      //mozilla doesn't support mp3
